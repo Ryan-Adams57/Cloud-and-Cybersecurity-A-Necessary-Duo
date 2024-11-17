@@ -1,5 +1,7 @@
 # Cloud-and-Cybersecurity-A-Necessary-Duo.
 
+![Cloud Computing   Cybersecurity](https://github.com/user-attachments/assets/57217898-d1f7-41f9-8b70-75a05096306b)
+
 Cloud computing and cybersecurity must work together to protect data and drive business innovation securely.
 
 Cloud Computing & Cybersecurity: A Vital Partnership for Modern Business.
